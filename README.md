@@ -1,4 +1,4 @@
-#WaveLoading
+## WaveLoading
 
 This library provides a *wave loading* animation as a **Drawable**.
 
